@@ -1,0 +1,29 @@
+
+
+div {
+  border: 2px solid black;
+  position: relative;
+  height: 600px;
+  width: 732px;
+  background-image: url('https://taylorrpape.files.wordpress.com/2013/01/etch-a-sketch.jpeg');
+  background-size: cover;
+}
+
+canvas {
+  border: 2px solid black;
+  margin-left: 95px;
+  margin-top: 90px;
+  position: absolute;
+  background-color: white;
+
+
+}
+
+#instruction {
+  margin-top: 520px;
+
+  font-family: 'Comic Sans MS';
+  color: white;
+  font-size: 1.5em;
+  text-align: center;
+}
